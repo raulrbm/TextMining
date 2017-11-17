@@ -1,7 +1,7 @@
 #Raul R Bander
 #Carnet: 12-11285
 #Luis C Diaz
-#Carnet: --------
+#Carnet: 11-10293
 #Mineria de datos
 #POS TAGGER
 
